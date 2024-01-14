@@ -9,10 +9,8 @@ Want better Developer Tools? Look no further, Web Mod is the Latest and Newest M
 
 ## How to Use?
 
-<clipboard-copy for="blob-path" class="btn btn-sm BtnGroup-item">
-  Copy path
-</clipboard-copy>
-<div id="blob-path">src/index.js</div>
-`Step 1: In your HTML File Paste in 🔗' ```$ <script src="https://web-mod.vercel.app/main.js"></script>```
-
+`Step 1: In your HTML File Paste Copy and Paste Code Below to Body Section`
+```
+$ <script src="https://web-mod.vercel.app"></script>
+```
 `Step 2: Your Done! ⏰`
