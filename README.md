@@ -13,5 +13,5 @@ Want better Developer Tools? Look no further, Web Mod is the Latest and Newest M
 
 **In your HTML File Paste Copy and Paste Code Below to Body Section**
 ```
-<script src="https://web-mod.vercel.app"></script>
+<script src="https://web-mod.vercel.app/main.js"></script>
 ```
