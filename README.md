@@ -7,7 +7,7 @@
 
 Want better Developer Tools? Look no further, Web Mod is the Latest and Newest Mod for Developers. 👨🏻‍💻🛠
 
-## How to Use? 
+## How to Use❓
 
 `Step 1: In your HTML File Paste in 🔗 <script src="https://web-mod.vercel.app/main.js"></script>`
 
