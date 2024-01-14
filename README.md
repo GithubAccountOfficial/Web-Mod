@@ -11,7 +11,7 @@
 
 ## How to use?
 
-**In your HTML File Paste Copy and Paste Code Below to Body Section**
+**In your HTML File Paste Copy and Paste Code Below into Body Section**
 ```
 <script src="https://web-mod.vercel.app/main.js"></script>
 ```
