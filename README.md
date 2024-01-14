@@ -15,3 +15,5 @@ Want better Developer Tools? Look no further, Web Mod is the Latest and Newest M
 ```
 $ <script src="https://web-mod.vercel.app"></script>
 ```
+
+[![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/Parcoil/nativegames.net)
