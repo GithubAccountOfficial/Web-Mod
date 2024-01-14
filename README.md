@@ -8,7 +8,8 @@
 Want better Developer Tools? Look no further, Web Mod is the Latest and Newest Mod for Developers. 👨🏻‍💻🛠
 
 <br>
-## How to Use?
+
+## How to use?
 
 **In your HTML File Paste Copy and Paste Code Below to Body Section**
 ```
