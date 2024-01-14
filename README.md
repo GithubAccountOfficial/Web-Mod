@@ -16,8 +16,3 @@
 <script src="https://web-mod.vercel.app/main.js"></script>
 ```
 
-## Features
-
-- Script Loader
-
-- 
