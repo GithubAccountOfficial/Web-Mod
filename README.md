@@ -1,4 +1,4 @@
-# Web Mod 🖱🖥
+ Web Mod 🖱🖥
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/SandwichOriginal/Web-Mod">
 
 STILL IN BETA...
