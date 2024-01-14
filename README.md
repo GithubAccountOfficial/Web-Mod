@@ -1,2 +1,1 @@
-# Web-Mod
-The Website &amp; Console Mod.
+<center><h1>Web Mod</h1></center>
