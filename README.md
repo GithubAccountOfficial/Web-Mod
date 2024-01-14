@@ -5,7 +5,7 @@
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/SandwichOriginal/Web-Mod">
 <br>
 
-`Want better Developer Tools? Look no further, Web Mod is the Latest and Newest Mod for Developers. 👨🏻‍💻🛠`
+Want better Developer Tools? Look no further, Web Mod is the Latest and Newest Mod for Developers. 👨🏻‍💻🛠
 
 ## How to Use? 
 
