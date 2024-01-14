@@ -9,6 +9,6 @@ Want better Developer Tools? Look no further, Web Mod is the Latest and Newest M
 
 ## How to Use? 
 
-Step 1: In your HTML File Paste in 🔗 **"<script src="https://web-mod.vercel.app/main.js"></script>"**
+Step 1: In your HTML File Paste in 🔗 **<script src="https://web-mod.vercel.app/main.js"></script>**
 
 Step 2: Your Done! ⏰
