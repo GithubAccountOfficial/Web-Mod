@@ -9,8 +9,7 @@ Want better Developer Tools? Look no further, Web Mod is the Latest and Newest M
 
 ## How to Use?
 
-`Step 1: In your HTML File Paste Copy and Paste Code Below to Body Section`
+*In your HTML File Paste Copy and Paste Code Below to Body Section*
 ```
 $ <script src="https://web-mod.vercel.app"></script>
 ```
-`Step 2: Your Done! ⏰`
