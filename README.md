@@ -7,7 +7,7 @@
 
 **Want better Developer Tools? Look no further, Web Mod is the Latest and Newest Mod for Developers. 👨🏻‍💻🛠**
 
-Do Not Forget to Star the Repository! ⭐
+Do Not Forget to Star the Repository! 😉
 
 <br>
 
